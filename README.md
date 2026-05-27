@@ -91,6 +91,20 @@ Selected outcomes include a personal-ontology memory benchmark improvement from 
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAswathM&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedAswathM&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+<sub>Public GitHub activity is shown through third-party profile cards. Private organization contributions appear only where GitHub exposes them publicly.</sub>
+
+---
+
 ## Credentials
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/c4a99aa7-3bea-4434-81b0-94bbce405047/public_url)
