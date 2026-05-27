@@ -91,6 +91,21 @@ Selected outcomes include a personal-ontology memory benchmark improvement from 
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![GitHub Stats](./profile-summary-card-output/github_dark/3-stats.svg)
+![Top Languages](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+</div>
+
+<sub>Generated from GitHub profile data by a scheduled workflow, so these cards do not depend on live third-party image URLs when someone opens the profile.</sub>
+
+---
+
 ## Credentials
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/c4a99aa7-3bea-4434-81b0-94bbce405047/public_url)
